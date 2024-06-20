@@ -100,7 +100,7 @@
     "tailwind": "npx tailwind -i ./src/input.css -o ./build/css/style.css --watch",
     "prettier": "npx prettier --write '**/*.html"
   },
-  "author": "",
+  "author": "Shohrux Zokirjonov",
   "license": "ISC",
-  "description": ""
+  "description": "This app is for educational puposes"
 }
